@@ -44,6 +44,15 @@ tốn khoảng 5 KB đến 6 KB Flash.
 _Lời khuyên_: Chỉ nên dùng dưới 20 images hoặc giải pháp thay thế là dùng các VXL khác mạnh hơn về bộ nhớ , tốc dộ xử lý như ESP32, Arduino Mega,..  
 hoặc dùng module thẻ nhớ SD( Này tự tìm hiểu thêm :) ).
 
+# Thành quả sau k lần chỉnh sửa
+Debug từ Arduino Forum đến Tool AI(ChatGPT, Germini) thì cho ra được một sản phẩm không xinh cx không xấu(Very Normal)
+⚠️ Cảnh báo có nhạc : Siuuuuuuuuuu Cute( Theo cảm nhận của bản thân là nó vậy :)) )
+
+
+https://github.com/user-attachments/assets/089f3e38-1721-4486-baae-3e01a2b0baec
+
+
+
 [^1]: https://i.ytimg.com/vi/m0WRscOG9oU/maxresdefault.jpg
 [^2]: [image2cpp. ](https://javl.github.io/image2cpp/) 
 
