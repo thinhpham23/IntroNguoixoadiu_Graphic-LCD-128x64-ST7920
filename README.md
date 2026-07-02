@@ -46,7 +46,7 @@ hoặc dùng module thẻ nhớ SD( Này tự tìm hiểu thêm :) ).
 
 # Thành quả sau k lần chỉnh sửa
 Debug từ Arduino Forum đến Tool AI(ChatGPT, Germini) thì cho ra được một sản phẩm không xinh cx không xấu(Very Normal)  
-⚠️ Cảnh báo có nhạc : Siuuuuuuuuuu Cute( Theo cảm nhận của bản thân là nó vậy :)) )
+⚠️ Cảnh báo có nhạc : Siuuuuuuuuuu ....
 
 
 https://github.com/user-attachments/assets/089f3e38-1721-4486-baae-3e01a2b0baec
